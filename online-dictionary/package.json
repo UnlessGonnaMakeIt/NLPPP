@@ -1,0 +1,11 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {
+      "exceljs": "^4.3.0",
+      "mongodb": "^4.13.0"
+    }
+  }
